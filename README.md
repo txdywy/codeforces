@@ -1,1 +1,2 @@
-# codeforces
+# Solutions to the Hardest Codeforces Problems
+This repository contains solutions to some of the most challenging problems on Codeforces, with a strong focus on advanced algorithms, rigorous reasoning, and performance-oriented implementation. Each solution is designed to meet strict time and memory limits while remaining as clear and well-structured as possible. The problems may involve sophisticated techniques such as dynamic programming, graph theory, data structures, number theory, combinatorics, and algorithmic optimization. This repository is intended for competitive programmers who want to study difficult problems, improve their problem-solving skills, and explore highly optimized C++ solutions.
