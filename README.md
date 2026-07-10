@@ -4,7 +4,7 @@ This repository contains highly optimized solutions to some of the most challeng
 
 ## Problems
 
-- [Codeforces 2223E](https://codeforces.com/problemset/problem/2223/E)
+- [Codeforces 2223E - E. Zhily and Permutation](https://codeforces.com/problemset/problem/2223/E)
 - [Codeforces 1578C — Cactus Lady and her Cing](https://codeforces.com/problemset/problem/1578/C)
 
 ## About
