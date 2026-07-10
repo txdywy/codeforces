@@ -1,2 +1,18 @@
-# Solutions to the Hardest Codeforces Problems
-This repository contains solutions to some of the most challenging problems on Codeforces, with a strong focus on advanced algorithms, rigorous reasoning, and performance-oriented implementation. Each solution is designed to meet strict time and memory limits while remaining as clear and well-structured as possible. The problems may involve sophisticated techniques such as dynamic programming, graph theory, data structures, number theory, combinatorics, and algorithmic optimization. This repository is intended for competitive programmers who want to study difficult problems, improve their problem-solving skills, and explore highly optimized C++ solutions.
+#Solutions to Some of the Hardest Codeforces Problems
+
+This repository contains highly optimized solutions to some of the most challenging problems on Codeforces.
+
+Problems
+
+* Codeforces 2223E
+* Codeforces 1578C — Cactus Lady and her Cing
+
+About
+
+The goal of this repository is not only to provide accepted implementations, but also to explore the underlying ideas, derive efficient algorithms, and push both time and memory usage as far as possible.
+
+These problems require advanced techniques in areas such as graph theory, combinatorics, dynamic programming, structural decomposition, and low-level performance optimization.
+
+All solutions are implemented in modern C++ and are designed to handle the strict constraints of Codeforces.
+
+This repository is intended for experienced competitive programmers who want to study difficult problems, understand non-obvious optimizations, and learn how complex theoretical ideas can be transformed into efficient, submission-ready code.
