@@ -1,13 +1,13 @@
-#Solutions to Some of the Hardest Codeforces Problems
+# Solutions to Some of the Hardest Codeforces Problems
 
 This repository contains highly optimized solutions to some of the most challenging problems on Codeforces.
 
-Problems
+## Problems
 
-* Codeforces 2223E
-* Codeforces 1578C — Cactus Lady and her Cing
+- [Codeforces 2223E](https://codeforces.com/problemset/problem/2223/E)
+- [Codeforces 1578C — Cactus Lady and her Cing](https://codeforces.com/problemset/problem/1578/C)
 
-About
+## About
 
 The goal of this repository is not only to provide accepted implementations, but also to explore the underlying ideas, derive efficient algorithms, and push both time and memory usage as far as possible.
 
